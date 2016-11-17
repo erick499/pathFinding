@@ -46,8 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\adm.cs" />
-     <Compile Include="Assets\propriedadesBlocos.cs" />
+     <Compile Include="Assets\scripts\adm.cs" />
+     <Compile Include="Assets\scripts\propriedadesBlocos.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
